@@ -71,7 +71,7 @@ const Login_screen = () => {
             <button
               className={`w-full h-11.5 text-[16px] rounded-md mb-2.5  text-[#FFFFFF] ${empty ? "bg-[#CBCBCB]" : "bg-[#6C25FF]"}`}
             >
-              Create Account
+              Login
             </button>
           </form>
         </div>
